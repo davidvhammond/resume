@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "David Hammond",
+    "label": "There's a creative approach to everything.",
+    "picture": "https://lh3.googleusercontent.com/-LjWHk3aJREc/AAAAAAAAAAI/AAAAAAAAAAA/AI6yGXxEOm_NAQAcmaZnAvMzYXDaTfi2Zw/s192-c-mo/photo.jpg",
+    "email": "contact@districtlydevelopment.com",
+    "phone": "(703) 926-3605",
+    "website": "http://districtlydevelopment.com",
+    "summary": "Senior Web Developer specializing in front-end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML, CSS, JavaScript, SQL, and PHP. Strong background in project management and customer relations.",
+    "location": {
+      "address": "3813 Griffith Place",
+      "postalCode": "VA 22304",
+      "city": "Alexandria",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "davidvhammond",
+        "url": "https://www.linkedin.com/in/davidvhammond/"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "districtdave",
+        "url": "https://soundcloud.com/davehammond"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Envolve PeopleCare",
+      "position": "Senior Web Developer",
+      "website": "http://envolvepeoplecare.com/",
+      "startDate": "2012-09-15",
+      "endDate": "2017-02-15",
+      "summary": "Envolve PeopleCare™ is comprised of Nurtur, LiveHealthier, NurseWise and Cenpatico. Together, we transform individual health management through education and empowerment. With behavioral health solutions, the trusted advice of nurses, and health, wellness and disease guidance programs, we make a difference in the lives of individuals when it matters most.",
+      "highlights": [
+        "Built 508 compliant, user-friendly web applications utilizing .NET architecture and Javascript/CSS/HTML",
+        "Successfully won the 2015 National Health Information Award",
+        "Employee of the Month November 2015",
+        "Selected by VP of Marketing to head EPC’s innovation initiative",
+        "EPC introduced his latest project—a user rewards slide out card—to the market"
+      ]
+    },
+    {
+      "company": "DealerON",
+      "position": "Web Developer",
+      "website": "http://DealerON.com/",
+      "startDate": "2011-05-11",
+      "endDate": "2012-09-10",
+      "summary": "We provide dealers the highest-converting websites, most comprehensive SEO, and the most advanced end-to-end digital advertising solution in automotive. We use data, testing, and optimization to help our dealers sell and service more cars, more profitably.",
+      "highlights": [
+        "Oversaw and managed 20+ ecommerce sites. Cyclical redesigns.",
+        "Increased   web   traffic   and   conversion   rates.",
+        "Interviewed   and   trained   new hires",
+        "Created   and   maintained   technical   documentation"
+      ]
+    },
+    {
+      "company": "XCO Sportslink",
+      "position": "Director of Client Services",
+      "website": "http://xcosoftware.com/news_pr_121409_launch.php",
+      "startDate": "2011-05-11",
+      "endDate": "2012-09-10",
+      "summary": "We provide dealers the highest-converting websites, most comprehensive SEO, and the most advanced end-to-end digital advertising solution in automotive. We use data, testing, and optimization to help our dealers sell and service more cars, more profitably.",
+      "highlights": [
+        "Orchestrated and implemented the launch of 8 professional sports team smartphone apps, including the Atlanta Hawks, Atlanta Thrashers, and Boston Celtics.",
+        "Collaborated with Sales, Customer Service, Marketing, Creative, Publishing and other departments and vendors to ensure delivery by league-set deadlines.",
+        "Helped select and manage various vendors.",
+        "Delivered RFPs to clients and developed strategic relationships with key players."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Recent Endorsement",
+      "position": "Ski Patroller",
+      "website": "https://drive.google.com/file/d/0B6irphTfdwngcWg3SjFDblJidFQzeFRMa19SNWF2bXQ0ZkY0/view?usp=sharing",
+      "startDate": "2012-01-01",
+      "summary": "As a member of the National Ski Patrol (NSP), we are a group of dedicated volunteers that provide outstanding Outdoor Emergency Care to the guests of Whitetail Resort and the community that we live in.  We are committed to promoting safety and responsible skiing/boarding for all of our guests and to providing first aid in the event of an injury.  We are active in the ski and outdoor recreation community by providing emergency care, rescue and educational services.",
+      "highlights": [
+        "See endorsement"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Hampden-Sydney College",
+      "area": "Psychology",
+      "studyType": "Bachelor of the Arts",
+      "startDate": "2005-09-01",
+      "endDate": "2009-05-31",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "jQuery",
+        "Node",
+        "Angular",
+        "Express",
+        "MySQL",
+        "PHP",
+        "Linux",
+        "Apache"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Guitar",
+      "keywords": [
+        "Stevie Ray Vaughan",
+        "Roger Waters"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Deadmau5",
+        "Led Zepplin",
+        "The Grateful Dead"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Graeme Dennis",
+      "reference": "http://www.google.com"
+    }
+  ]
+}
